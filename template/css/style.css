@@ -1,0 +1,35 @@
+.box-container{
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    position: relative;
+}
+
+#box{
+       float: left;
+}
+
+
+#membre{
+    float: right;
+}
+
+.btn btn-primary{
+    margin-top: 70px;
+    position: fixed;
+}
+
+#group-view{
+    margin-top: 50px;
+}
+
+#notice{
+    border-width: 1px;
+    border-color: #05AE0E;
+    background-color: #389c44;
+}
+
+
